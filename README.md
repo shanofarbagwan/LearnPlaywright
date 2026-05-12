@@ -18,6 +18,17 @@ This repository contains learning materials and examples for Playwright, an end-
 - `08_Comments.js` - Comment types and examples
 - `VS_Code_Keyboard_shortcuts.md` - VS Code shortcuts for Windows
 
+### Chapter 04: JavaScript Concepts
+- `09_var_let_const.js` - `var`, `let`, and `const` explained
+- `10_functions.js` - Function declarations and expressions
+- `11_var_explained.js` - `var` behavior and scoping
+- `12_let_peope_love.js` - `let` block scoping and examples
+- `13_const_explained.js` - `const` immutability and usage
+- `14_var_functionscope.js` - Function scope with `var`
+- `15_let_scope.js` - Block scope with `let`
+- `16_Hoisting.js` - Hoisting behavior in JavaScript
+- `17_hoisting_fn.js` - Function hoisting examples
+
 ## Prerequisites
 
 - Node.js (version 14 or higher)
