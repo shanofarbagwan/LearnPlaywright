@@ -126,7 +126,38 @@ LearnPlaywrightBatch2x/
 │   ├── 14_var_functionscope.js         # var function scope
 │   ├── 15_let_scope.js                 # let block scope
 │   ├── 16_Hoisting.js                  # Variable hoisting explained
-│   └── 17_hoisting_fn.js               # Function hoisting
+│   ├── 17_hoisting_fn.js               # Function hoisting
+│   ├── 18_let_hoisting.js              # let hoisting behavior and timing
+│   ├── 19_let_hoisting_block.js        # Block-scoped hoisting with let
+│   ├── 20_let_const.js                 # Differences between let and const
+│   └── 21_Jr_QA.js                     # JavaScript practice examples
+│
+├── chapter_05_Literal/                 🚧 Literals and null/undefined
+│   ├── 22_Literal.js                   # Literal types and syntax
+│   ├── 23_null_undefined.js            # null vs undefined
+│   ├── 24_null.js                      # Null-specific examples
+│   ├── 25_Literal_All.js               # Combined literal examples
+│   ├── 26_Literal_Number_all.js        # Numeric literal formats
+│   ├── 27_String.js                    # String literal usage
+│   ├── 28_Template_Literal.js          # Template literals and interpolation
+│   └── 29_Backtick_single_double.js    # Backtick, single, and double quotes
+│
+├── chapter_06_Operator/                🚧 Operators and expressions
+│   ├── 30_Operator.js                  # Operator overview
+│   ├── 31_Arithmetic_OP.js             # Arithmetic operators
+│   ├── 32_Modulus_OP.js                 # Modulus operator
+│   ├── 33_Expo_OP.js                   # Exponentiation operator
+│   ├── 34_IQ.js                        # Operator examples and puzzles
+│   ├── 35_Comparsion_OP.js             # Comparison operators
+│   ├── 36_Comparsion_Strict_loose.js   # Strict vs loose equality
+│   ├── 37_IQ_Loose_Strict.js           # Comparison puzzles with strict/loose equality
+│   ├── 38_Confusing_Comparsion.js      # Confusing comparison cases
+│   ├── 39_Logical_Op.js                # Logical operators
+│   ├── 40_String_Con_Op.js             # String concatenation operators
+│   ├── 41_Ternary_Op.js                # Ternary operator usage
+│   ├── 42_Type_Op.js                   # typeof and type operators
+│   ├── 43_Incre_Decre_Op.js            # Increment and decrement operators
+│   └── 44_Null_Op.js                   # Nullish and null operators
 │
 └── README.md                           👋 You are here
 ```
